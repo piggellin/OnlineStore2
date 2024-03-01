@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\OnlineStore2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|c:\\users\\user\\source\\repos\\onlinestore2\\onlinestore2\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|solutionrelative:onlinestore2\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|c:\\users\\user\\source\\repos\\onlinestore2\\onlinestore2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|solutionrelative:onlinestore2\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|c:\\users\\user\\source\\repos\\onlinestore2\\onlinestore2\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|solutionrelative:onlinestore2\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|c:\\users\\user\\source\\repos\\onlinestore2\\onlinestore2\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|solutionrelative:onlinestore2\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|c:\\users\\user\\source\\repos\\onlinestore2\\onlinestore2\\classes\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|solutionrelative:onlinestore2\\classes\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|c:\\users\\user\\source\\repos\\onlinestore2\\onlinestore2\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBBD1210-DFAF-47D1-A62A-1373AC8BD4CB}|OnlineStore2\\OnlineStore2.csproj|solutionrelative:onlinestore2\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Classes\\Item.cs",
+              "RelativeDocumentMoniker": "OnlineStore2\\Classes\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Classes\\Item.cs",
+              "RelativeToolTip": "OnlineStore2\\Classes\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:09:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Classes\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "OnlineStore2\\Classes\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Classes\\DatabaseConnection.cs",
+              "RelativeToolTip": "OnlineStore2\\Classes\\DatabaseConnection.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:18:50.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "OnlineStore2\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Classes\\User.cs",
+              "RelativeToolTip": "OnlineStore2\\Classes\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:13:21.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Start.cs",
+              "RelativeDocumentMoniker": "OnlineStore2\\Start.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Start.cs",
+              "RelativeToolTip": "OnlineStore2\\Start.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:03:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "OnlineStore2\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "OnlineStore2\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:57:44.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Start.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Start.cs",
+              "RelativeDocumentMoniker": "OnlineStore2\\Start.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnlineStore2\\OnlineStore2\\Start.cs [Design]",
+              "RelativeToolTip": "OnlineStore2\\Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:20:37.372Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
